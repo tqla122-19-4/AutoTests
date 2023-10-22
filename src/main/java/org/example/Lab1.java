@@ -15,7 +15,6 @@ import org.openqa.selenium.Keys;
 //import java.time.Duration;
 //import static java.time.Duration.ofSeconds;
 
-
 public class Lab1 {
     private WebDriver chromeDriver;
 
